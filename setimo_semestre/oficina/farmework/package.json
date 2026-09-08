@@ -2,7 +2,7 @@
   "name": "farmework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://aojoaojo.github.io/IDP/setimo_semestre/oficina/farmework/",
+  "homepage": "https://farmework.shop",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

@@ -5,3 +5,9 @@
 .bg-verde-4{
     background-color: #CDE4B3;
 }
+
+.accordion-button:not(.collapsed){
+    color: #000000;
+    background-color: #CDE4B3;
+    }
+    
